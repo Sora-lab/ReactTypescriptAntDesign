@@ -7012,9 +7012,9 @@ mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkdirp@
     minimist "0.0.8"
 
 moment@2.x, moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 moo@^0.4.3:
   version "0.4.3"
@@ -10803,7 +10803,7 @@ typedoc-default-themes@^0.5.0:
   resolved "https://registry.yarnpkg.com/typedoc-default-themes/-/typedoc-default-themes-0.5.0.tgz#6dc2433e78ed8bea8e887a3acde2f31785bd6227"
   integrity sha1-bcJDPnjti+qOiHo6zeLzF4W9Yic=
 
-typedoc@0.14.2:
+typedoc@^0.14.2:
   version "0.14.2"
   resolved "https://registry.yarnpkg.com/typedoc/-/typedoc-0.14.2.tgz#769f457f4f9e4bdb8b5f3b177c86b6a31d8c3dc3"
   integrity sha512-aEbgJXV8/KqaVhcedT7xG6d2r+mOvB5ep3eIz1KuB5sc4fDYXcepEEMdU7XSqLFO5hVPu0nllHi1QxX2h/QlpQ==
